@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/Ajdsh/Heroku-Gerzjh",
-  "repository": "https://github.com/Ajdsh/Heroku-Gerzjh",
+  "website": "https://github.com/Ahskgn/Heroku-Gerzjh",
+  "repository": "https://github.com/Ahskgn/Heroku-Gerzjh",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
